@@ -1,0 +1,7 @@
+transformers
+pytorch-lightning
+timm
+git+https://github.com/openai/CLIP.git
+open_clip_torch
+git+https://github.com/Baijiong-Lin/LoRA-Torch
+wandb
